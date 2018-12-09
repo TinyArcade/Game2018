@@ -3,10 +3,13 @@
 
 //middle click on element opens up manual
 
-hsp = 0;
-vsp = 0;
+hsp = 0; //horizontal speed
+vsp = 0; //vertical speed
 grv = 0.8;
 walksp = 4;
+
+start_posx = x;
+start_posy = y;
 
 
 /*
@@ -19,3 +22,6 @@ else
    gravity = 0;
    }
    */
+   
+   
+   

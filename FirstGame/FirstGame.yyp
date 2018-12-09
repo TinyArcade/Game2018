@@ -55,10 +55,34 @@
             }
         },
         {
+            "Key": "1b3c193a-4ea5-4d2c-9264-3ba117c39efe",
+            "Value": {
+                "id": "5d342239-d498-4948-88fc-7308106a17f7",
+                "resourcePath": "rooms\\room_2\\room_2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "23e5ecd9-06b9-467e-859f-a45edb653c9a",
+            "Value": {
+                "id": "44d5c854-717f-48bb-b18c-cae35deda7e2",
+                "resourcePath": "sprites\\end_of_level\\end_of_level.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "25c92344-314d-4edb-b779-92bc304c4fec",
+            "Value": {
+                "id": "1491136c-3c24-484f-b586-d7666347ad40",
+                "resourcePath": "sprites\\sprite5\\sprite5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2a6ed0a4-570e-407c-a538-d185691ea987",
             "Value": {
                 "id": "ecefccf4-e114-478d-bdc3-c74a27d30b37",
-                "resourcePath": "objects\\object_player\\object_player.yy",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -76,6 +100,22 @@
                 "id": "48054d6b-936f-4f50-a656-83814ded1780",
                 "resourcePath": "sprites\\sprite_player\\sprite_player.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "316568f7-a764-4ff2-b39c-d03df69dbdd8",
+            "Value": {
+                "id": "184c4aef-f161-48f8-aa33-620ead58fe59",
+                "resourcePath": "objects\\obj_controller\\obj_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "42cfb22f-b3c8-43a5-ba3d-132c471e5ba3",
+            "Value": {
+                "id": "f27c62cb-f2b3-4511-9e27-7b3087d752d7",
+                "resourcePath": "objects\\obj_endoflevel\\obj_endoflevel.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -135,14 +175,6 @@
             }
         },
         {
-            "Key": "86d5e6fa-b856-49c4-8e16-f1be28a512ae",
-            "Value": {
-                "id": "0d66620f-dde4-4717-95ab-a361363e8bc0",
-                "resourcePath": "sprites\\key\\key.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9a5d31e5-41c9-4194-ae5f-d3039c4c3e59",
             "Value": {
                 "id": "be7a48a0-25ac-4e7e-8eaa-308eb5b29408",
@@ -154,7 +186,7 @@
             "Key": "a0917845-da74-409f-9434-29e0e43d55a9",
             "Value": {
                 "id": "866885d2-c123-4f51-85cb-b56f6369101f",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_1\\room_1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -188,6 +220,14 @@
                 "id": "5ccb51cb-d625-47a0-98ad-b5a1747b9d17",
                 "resourcePath": "views\\b888520a-6f56-4761-8189-af21cdbab1f8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bbf25e00-7efc-4fe4-a63c-befc91b88145",
+            "Value": {
+                "id": "699c89eb-d4ae-4cc7-86a3-61994cdb1e2e",
+                "resourcePath": "objects\\obj_door\\obj_door.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -252,14 +292,6 @@
                 "id": "b8069d61-04d4-4556-966d-181db2676c83",
                 "resourcePath": "views\\f772a98d-4f50-4952-8b27-8b525b5e2a6d.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "fa2fb439-1648-4c16-820b-131a10db4a2b",
-            "Value": {
-                "id": "1cda9b50-86a2-4de2-877f-cdf4b3d04e00",
-                "resourcePath": "objects\\object2\\object2.yy",
-                "resourceType": "GMObject"
             }
         }
     ],
