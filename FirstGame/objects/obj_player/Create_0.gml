@@ -17,6 +17,9 @@ start_posy = y;
 
 
 
+start_posx = x;
+start_posy = y;
+
 
 /*
 if !place_meeting(x, y + 1, floortileobject)
@@ -29,6 +32,6 @@ else
    }
    */
    
+
 keys = 0;
 
-   
