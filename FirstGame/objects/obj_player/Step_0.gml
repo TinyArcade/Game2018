@@ -66,6 +66,17 @@ if (place_meeting(x+hsp,y,floortileobject))  // (place_meeting) if the place of 
 	hsp=0;
 }
 
+else if (place_meeting(x+hsp,y,obj_door)) 
+{
+		while(!place_meeting(x+sign(hsp),y,obj_door)) //sign - returns 1 or -1 depending on if the variable is positive or negrative
+	{
+	//increase 1 coordinate by 1 until collision
+	x=x+sign(hsp);
+	}
+
+	hsp=0;
+}
+
 //else 
 // not true, peform after brackets
 
