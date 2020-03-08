@@ -32,10 +32,17 @@ vsp = vsp + grv;
 
 //another collision check)
 if(place_meeting(x,y+1,floortileobject)) && (key_jump)
-{
-vsp = -12;
+{ 
+	jumps = jumpsmax;
+//vsp = -12;
 }
 
+if (key_jump) && (jumps > 0)
+{ 
+	jumps -= 1;
+	vsp = -12
+	
+}
 
 
 
@@ -85,6 +92,9 @@ if (place_meeting(x,y+vsp,floortileobject))
 }
 y = y + vsp;
 
-
+if(place_meeting(x,y,obj_key))
+{
+keys = keys+1;
+}
 
 

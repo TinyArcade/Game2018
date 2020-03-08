@@ -6,3 +6,4 @@ obj_player.player_y = obj_player.ystart;
 
 x = player_x;
 y = player_y;
+

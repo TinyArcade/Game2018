@@ -2,7 +2,7 @@
     "id": "25c92344-314d-4edb-b779-92bc304c4fec",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite5",
+    "name": "sprite_door",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -7,9 +7,15 @@ hsp = 0; //horizontal speed
 vsp = 0; //vertical speed
 grv = 0.8;
 walksp = 4;
+jumps = 0;
+
+jumpsmax = 2;
+
 
 start_posx = x;
 start_posy = y;
+
+
 
 
 /*
@@ -23,5 +29,6 @@ else
    }
    */
    
-   
+keys = 0;
+
    
