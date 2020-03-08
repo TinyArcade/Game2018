@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 //https://www.youtube.com/watch?v=izNXbMdu348 - starts to speak specifically about
 //movememt at 12:30
@@ -98,9 +97,6 @@ if(place_meeting(x,y,obj_key))
 keys = keys+1;
 }
 
-
-=======
-
 //https://www.youtube.com/watch?v=izNXbMdu348 - starts to speak specifically about
 //movememt at 12:30
 
@@ -198,7 +194,3 @@ if (place_meeting(x,y+vsp,floortileobject))
 }
 y = y + vsp;
 
-
-
-
->>>>>>> master
