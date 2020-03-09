@@ -8,5 +8,7 @@ if (room == 1){
 	show_debug_message("Made it here");
 	instance_create_layer(230,530, "Text", hint);
 }
+else{
+	
+}
 
-room_restart();
