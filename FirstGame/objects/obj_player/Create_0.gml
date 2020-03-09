@@ -11,14 +11,6 @@ jumps = 0;
 
 jumpsmax = 2;
 
-<<<<<<< HEAD
-
-start_posx = x;
-start_posy = y;
-
-
-=======
->>>>>>> b119279... Door and Key restrictions
 
 start_posx = x;
 start_posy = y;
@@ -37,12 +29,6 @@ else
    }
    */
    
-<<<<<<< HEAD
-
-keys = 0;
-
-=======
 keys = 0;
 
    
->>>>>>> b119279... Door and Key restrictions
