@@ -10,6 +10,10 @@
         "25c92344-314d-4edb-b779-92bc304c4fec",
         "23e5ecd9-06b9-467e-859f-a45edb653c9a",
         "1eec0401-c833-4cf8-ad4c-6041449a4afc"
+<<<<<<< HEAD
+        "2ca38487-c189-42ab-9d95-a47ab690ad7e",
+=======
+>>>>>>> b119279... Door and Key restrictions
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",

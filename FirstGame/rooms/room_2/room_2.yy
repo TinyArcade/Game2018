@@ -51,6 +51,10 @@
         "28ac2453-1769-4548-8c74-be6d93ffd546",
         "ee502213-d3e0-4f2b-9640-0116ee0a3a8a",
         "a4eb8d24-53c0-4c14-aaec-ca8e2791259c",
+<<<<<<< HEAD
+
+=======
+>>>>>>> b119279... Door and Key restrictions
         "2e98b2c7-df74-4db7-b37f-2a7cdd60f190",
         "695da59a-12bc-454e-81cb-5333878e96d4",
         "2170ef6d-0546-40f4-98f6-08fdb6394fa7",
@@ -115,6 +119,10 @@
             "name": "paintedtileset",
             "id": "88027b13-496e-4bfc-b5a1-f81cedc03a41",
             "depth": 200,
+<<<<<<< HEAD
+
+=======
+>>>>>>> b119279... Door and Key restrictions
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -174,6 +182,10 @@
             "name": "Tiles_1",
             "id": "f18e83d8-7905-4a3c-9860-f7f100771f08",
             "depth": 300,
+<<<<<<< HEAD
+
+=======
+>>>>>>> b119279... Door and Key restrictions
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -188,6 +200,10 @@
             "m_parentID": "00000000-0000-0000-0000-000000000000",
             "m_serialiseFrozen": false,
             "modelName": "GMRTileLayer",
+<<<<<<< HEAD
+
+=======
+>>>>>>> b119279... Door and Key restrictions
             "prev_tileheight": 32,
             "prev_tilewidth": 32,
             "mvc": "1.0",
@@ -223,6 +239,10 @@
                 ]
             },
             "tilesetId": "cf8dd9b2-41a8-44eb-a9db-52397a0eeb6a",
+<<<<<<< HEAD
+
+=======
+>>>>>>> b119279... Door and Key restrictions
             "userdefined_depth": false,
             "visible": true,
             "x": 0,
@@ -233,6 +253,10 @@
             "name": "flooring_and_walls",
             "id": "ec4bc5f1-00b7-4d5a-85ca-0443b53d3e2b",
             "depth": 400,
+<<<<<<< HEAD
+
+=======
+>>>>>>> b119279... Door and Key restrictions
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -290,6 +314,10 @@
 {"name": "inst_5009C27B","id": "695da59a-12bc-454e-81cb-5333878e96d4","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_5009C27B","objId": "58a4749f-080b-4163-b25a-29f20e2e95fd","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 480,"y": 544},
 {"name": "inst_39BC1B2C","id": "2170ef6d-0546-40f4-98f6-08fdb6394fa7","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_39BC1B2C","objId": "58a4749f-080b-4163-b25a-29f20e2e95fd","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 448,"y": 544},
 {"name": "inst_20250A24","id": "bafbc455-3d08-458e-8d47-293c0142c8b8","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_20250A24.gml","creationCodeType": ".gml","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_20250A24","objId": "da475b35-a9ad-43d9-bede-f027ced8bf1a","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 992,"y": 576}
+<<<<<<< HEAD
+
+=======
+>>>>>>> b119279... Door and Key restrictions
             ],
             "layers": [
 
@@ -309,6 +337,10 @@
             "animationSpeedType": "0",
             "colour": { "Value": 4281611316 },
             "depth": 500,
+<<<<<<< HEAD
+
+=======
+>>>>>>> b119279... Door and Key restrictions
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
