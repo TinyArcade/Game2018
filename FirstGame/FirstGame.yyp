@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "045029d1-38aa-4fc0-974a-426062a80826",
+            "Value": {
+                "id": "7c734f5c-5f58-4417-ae6a-df6ebfdb7cc1",
+                "resourcePath": "objects\\lives_count\\lives_count.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "14c3608b-c342-4634-bac5-f06d6161fc87",
             "Value": {
                 "id": "ed08bb90-fb50-4514-9ce0-44f76a8681da",

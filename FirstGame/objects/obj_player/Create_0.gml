@@ -31,4 +31,9 @@ else
    
 keys = 0;
 
+globalvar outside_of_room;
+outside_of_room = 0;
+
+
+
    
